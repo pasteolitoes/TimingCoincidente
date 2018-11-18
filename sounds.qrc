@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>243701__ertfelda__correct.wav</file>
+        <file>216090__richerlandtv__bad-beep-incorrect.wav</file>
+        <file>216090__richerlandtv__bad-beep-incorrect.mp3</file>
+        <file>243701__ertfelda__correct.mp3</file>
+    </qresource>
+</RCC>
